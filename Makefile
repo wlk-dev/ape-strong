@@ -1,6 +1,6 @@
 build:
-	gcc ape.c -o ape.exe
+	gcc ape.c -o ape
 
 clean:
-	rm -f ape.exe
+	rm -f ape
 
