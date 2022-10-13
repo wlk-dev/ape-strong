@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <Windows.h>
-#include <string.h>
 
 
 void setcolor(int color, int intensity) {
