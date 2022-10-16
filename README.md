@@ -6,3 +6,4 @@
 ## Todo
 
 - [ ] Web Assembly Version
+- [ ] Generator
